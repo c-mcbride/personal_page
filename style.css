@@ -1,0 +1,12 @@
+* {
+    background-color: grey;
+    color: tan;
+}
+
+div{
+  width: auto;
+  border: 15px solid tan;
+  padding: 50px;
+  margin: 20px;
+  background-color: grey
+}
